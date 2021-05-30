@@ -6,7 +6,7 @@ This contains the quotes and notes which I take while reading any book. There ar
 <br />
 <br />
 I created this repo in public for multiple reasons:
-- I would like to go through the learnings again.
+- I would like to go through the learnings and improtant points again.
 - If you are trying to pick your next book to read, you could go through the notes to see if it interests you.
 - If you want to read a summary of these books, you can refer to it.
 
