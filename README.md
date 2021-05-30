@@ -13,4 +13,4 @@ I created this repo in public for multiple reasons:
 --------------------
 You can click on the book name from the list below and read the notes for it.
 
-## [The Alchemist - Paulo Coelho](https://www.goodreads.com/book/show/18144590-the-alchemist)
+## [The Alchemist - Paulo Coelho](https://github.com/anuk79/BookNotes/blob/main/books/TheAlchemist.md)
