@@ -14,7 +14,9 @@ I created this repo in public for multiple reasons:
 --------------------
 You can click on the book name from the list below and read the notes for it.
 
-## [The Alchemist - Paulo Coelho](https://github.com/anuk79/BookNotes/blob/main/books/TheAlchemist.md)
+## [The Alchemist - by Paulo Coelho](https://github.com/anuk79/BookNotes/blob/main/books/TheAlchemist.md)
 
 ## [Digital Minimalisation - Choosing a Focused Life in a Noisy World - by Cal Newport](https://github.com/anuk79/BookNotes/blob/main/books/DigitalMinimalisation.md)
+
+## [The Magic of Thinking Big - by David J. Schwartz](https://github.com/anuk79/BookNotes/blob/main/books/TheMagicOfThinkingBig.md)
 
